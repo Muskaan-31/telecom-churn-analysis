@@ -40,7 +40,7 @@ billing, satisfaction scores, and churn reason.
 > of churn risk.
 ## Project Structure
 
-### Tool 1 — Python EDA (`notebooks/02_EDA_Churn_Analysis.ipynb`)
+### Tool 1 — Python EDA (`Notebooks/02_EDA_Churn_Analysis.ipynb`)
 - Null imputation: `Offer` → 'No Offer', `Internet Type` → 'No Internet',
   `Churn Category/Reason` → 'No churn' (no rows dropped)
 - Churn_Flag encoding: 'Yes'→1, 'No'→0 for numeric analysis
